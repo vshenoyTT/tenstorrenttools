@@ -2,9 +2,6 @@
 ### Intro
 This is a web tool visualize TT-NN operations. 
 
-[GitHub Repository](https://github.com/vshenoyTT/graph-tool)
-[Deployment](https://tt-graph.streamlit.app/) (available till 9/13)
-
 ### Codebase
 The tool is built using _Streamlit_ for the interface, along with _Pandas_, _NumPy_, and _MatPlotLib_ for data manipulation and graphing. The main file containing the web interface and data manipulation is `streamlit_app.py`. The dependencies are listed in `requirements.txt`, and the `.streamlit` file contains configurations for UI styling.
 
