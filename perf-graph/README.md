@@ -1,4 +1,4 @@
-# Performance Sheet Analysis Tool
+# Performance Graph Visualizer Tool
 ### Intro
 This is a web tool visualize TT-NN operations. 
 
