@@ -3,9 +3,6 @@
 
 This is a web tool to create graphs to visualize L1 utilization on a per operation basis.
 
-[GitHub Repository](https://github.com/vshenoyTT/new-l1-tool)
-[Deployment](https://new-l1-tool.streamlit.app/) (available till 9/13)
-
 ### Codebase
 Built using _Streamlit_ for the interface, along with _Pandas_ and _MatPlotLib_ for data manipulation and graph creation. The main file containing the web interface and data manipulation is `streamlit_app.py`. The dependencies are listed in `requirements.txt`, and the `.streamlit` file contains configurations for UI styling and file size limitations.
 
