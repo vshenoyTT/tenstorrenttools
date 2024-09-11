@@ -1,6 +1,5 @@
 # L1 Buffer Graphing Tool 
 ### Intro
-
 This is a web tool to create graphs to visualize L1 utilization on a per operation basis.
 
 ### Codebase
